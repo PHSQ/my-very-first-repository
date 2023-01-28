@@ -2,6 +2,7 @@ import os
 import time
 from termcolor import colored
 
+#cria matriz de tamanho width x height
 class Canvas: 
     def __init__(self, width, height):
         self._x = width
@@ -11,6 +12,6 @@ class Canvas:
     #def hitswall(self, point):
     #    return point[0] < 0 or point[0] >= self._x
 
-canvas = Canvas(3, 3)
+canvas = Canvas(2, 2)
 
 print(canvas._canvas)
