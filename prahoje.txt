@@ -1,5 +1,5 @@
 
 -Estudar o codigo do exercicio-3
--fazer 5 exercicios de dinamica
+-fazer 5 exercicios de dinamica v
 -100 barras
 -avançar no curso python-my-essential-training
