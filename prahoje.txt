@@ -1,5 +1,5 @@
-ls
-ls
--Estudar o codigo do exercicio 3
--[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[Cde python[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dfazer 5 exercicios de dinamica
+
+-Estudar o codigo do exercicio-3
+-fazer 5 exercicios de dinamica
 -100 barras
+-avançar no curso python-my-essential-training
