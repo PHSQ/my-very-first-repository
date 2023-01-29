@@ -15,10 +15,15 @@ class Canvas:
         return point[0] < 0 or point[0] >= self._x or point[1] < 0 or point[1] >= self._y
     # Uma maneira de verificar se o ponto (point[0],point[1]) esta fora do grid (self._x,self._y)
 
-canva = Canvas(2, 2)
-a = Canvas(4,4)
-estafora = Canvas.hitsWall(a,[5,3])
+    def setPos(self, pos, mark):
+        self._canvas[pos[0]][pos[1]] = mark
 
-print(canva._canvas)
+
+
+
+a = Canvas(4,2)
+b =[5,3]
+estafora = Canvas.hitsWall(a, b)
+
 print(a._canvas)
 print(estafora)
