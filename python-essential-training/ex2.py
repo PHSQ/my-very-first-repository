@@ -27,7 +27,7 @@ class Canvas:
         self.clear()
         for y in range(self._y):
             print(' '.join([col[y] for col in self._canvas]))
-    #limpa o terminal e imprime cada linha no canvas
+    #limpa o terminal e imprime cada linha separadamente no canvas
 
 
 a = Canvas(4,4)
