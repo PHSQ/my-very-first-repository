@@ -1,5 +1,3 @@
-# learning comments
-
 # Greet the user
 print("Hi!")
 

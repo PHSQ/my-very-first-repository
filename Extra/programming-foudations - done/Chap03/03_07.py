@@ -1,6 +1,5 @@
-#Guess the output
-
 print("Challenge 1:")
+
 # A message for the user
 message = "This is going to be tricky ;)"
 Message = "Very tricky!"
