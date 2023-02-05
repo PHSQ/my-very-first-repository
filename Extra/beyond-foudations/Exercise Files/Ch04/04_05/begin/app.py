@@ -1,2 +1,3 @@
 miles = input('Enter a distance in miles: ')
-# kilometers_value = miles_value * 1.609344
+print(f'{float(miles) * 1.609344} is the distance in kilometers')
+# kilometers_value = miles_value * 
