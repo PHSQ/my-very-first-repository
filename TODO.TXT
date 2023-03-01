@@ -4,3 +4,5 @@
 *TEMPO QUE A FREQUENCIA TENDE A 0,
 *VERIFICAR SE OSCILA, 
 *A QUESTAO QUE EU ERREI EM DINAMICA)
+*Lista de Eletronica
+*Lista de Eletromag.
