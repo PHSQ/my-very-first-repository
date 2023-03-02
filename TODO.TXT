@@ -1,5 +1,7 @@
--ESTUDAR QUESTOES QUE EU ERREI NA PROVA 
-*VERIFICAR SE OSCILA, 
+
 *Lista de Eletronica
 *Lista de Eletromag.
-*EXS de circuitos 2 
+*Exs de circuitos 2 
+
+
+*VERIFICAR SE OSCILA, (só quando pegar a prova, se pegar)
