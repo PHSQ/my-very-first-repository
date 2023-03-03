@@ -1,7 +1,9 @@
 
-*Lista de Eletronica
-*Lista de Eletromag.
-*Exs de circuitos 2 
+Lista de Eletromag.
+Exs de circuitos 2 
+capitulo 6 dinamica
+ler mais algumas paginas de modelagem
+começar a fazer todos os exs do começo
 
 
 *VERIFICAR SE OSCILA, (só quando pegar a prova, se pegar)
