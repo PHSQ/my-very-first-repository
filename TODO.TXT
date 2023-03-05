@@ -1,6 +1,6 @@
 
--Lista de Eletromag.
 -Exs de circuitos 2 (prova sabado)
+-Lista de Eletromag.
 -capitulo 6 dinamica
 -ler algumas paginas de modelagem
 -começar a fazer todos os exs de modelagem
